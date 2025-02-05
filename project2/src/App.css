@@ -1,0 +1,5 @@
+ .container_shift{
+    display: flex;
+    flex-direction: column;
+    height: calc(90vh - 72px);
+  } 

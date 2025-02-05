@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    height: 72px;
+
+    
+}
+nav .link ul{
+    display: flex;
+    list-style: none;
+    gap: 32px;
+    padding-top: 5px;
+    
+}
